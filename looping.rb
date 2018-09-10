@@ -1,7 +1,7 @@
 def looping
-	loop do 
+	loop do
     puts "I am looping"
   end
 end
 
-#call your method here
+looping
